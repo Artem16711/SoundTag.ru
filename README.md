@@ -1,2 +1,2 @@
-# soundtag-githun.io
+# soundtag-github.io
 Soundtag
